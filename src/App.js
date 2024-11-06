@@ -11,7 +11,7 @@ function App() {
 
 ## Here's some cool stuff for you to look at...
 
-#### And don't forget to check out my GitHub profile~ &#x1F449; [Youngeun](https://www.github.com/JYoungeun)
+#### And don't forget to check out my GitHub profile~ &#x1F449; [Youngeun](https://www.github.com/itsYoungeun)
 
 This is some code, \`<div className="text"></div>\`, between 2 backticks.
 
